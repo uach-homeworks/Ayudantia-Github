@@ -29,5 +29,3 @@ Lee [INSTRUCCIONES.md](INSTRUCCIONES.md) antes de empezar.
 | | | | |
 | | | | |
 | | | | |
-
-locura
